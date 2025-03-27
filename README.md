@@ -13,8 +13,8 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/llama3-ai-chatbot.git
-cd llama3-ai-chatbot
+git clone <your-repository-url>
+cd <your-repository-folder>
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
